@@ -10,7 +10,6 @@ int main(){
         cout << number << endl;
         if(number == 1000000000){
             run = false;
-            
         }
     }
 }
